@@ -28,7 +28,6 @@ It allows users to manage workspaces, projects, and tasks with a permission syst
 
 ## 📸 Demo
 
-> Add your screenshot here:
 
 ![TaskFlow Demo](./screenshots/demo.png)
 
