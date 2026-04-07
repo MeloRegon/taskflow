@@ -13,7 +13,7 @@ It allows users to manage workspaces, projects, and tasks with a permission syst
 - ✅ Task CRUD (Create, Read, Update, Delete)
 - 🛡 Access control (only workspace members can access data)
 - 🌐 REST API built with Django REST Framework
-- 🎨 Simple demo UI (Django templates + JS)
+- 🎨 Simple demo UI (Django templates)
 
 ---
 
@@ -95,15 +95,10 @@ taskflow/
 - Implementing permission logic (workspace membership)  
 - Using service layer for business logic separation  
 - Working with class-based views (`APIView`)  
-- Connecting backend with frontend (HTML + JS)  
+- Connecting backend with frontend (HTML + CSS)  
 
 ---
 
 ## 📬 Contact
 
 GitHub: https://github.com/MeloRegon
-"""
-path = "/mnt/data/README.md"
-with open(path, "w", encoding="utf-8") as f:
-    f.write(content)
-print(path)
